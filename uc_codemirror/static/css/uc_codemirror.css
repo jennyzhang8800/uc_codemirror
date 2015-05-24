@@ -1,0 +1,9 @@
+/* CSS for UcCodemirrorXBlock */
+
+.uc_codemirror_block .count {
+    font-weight: bold;
+}
+
+.uc_codemirror_block p {
+    cursor: pointer;
+}
